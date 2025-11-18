@@ -1,2 +1,2 @@
-# Concept
-This project is for our CS 542: Database Management Systems graduate course at WPI. Our group decided to base the project on Magic: the Gathering due to the game's rich set of complex but structured data.
+MTG-Database
+Magic: The Gathering is a very successful trading card game with over 30,000 cards. For many players, this is an overwhelming scene to try to get into. This database project aims to help new users get into this scene and have a starting point to build decks and explore cards.
